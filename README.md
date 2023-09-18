@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toiletman007
-- 👀 I’m interested in Python Java C and Kotlin
+- 👀 I’m interested in Python Java and Kotlin
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : quertical5@gmail.com
