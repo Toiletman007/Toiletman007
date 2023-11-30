@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **...**
 
-- 📫 How to reach me **quertical5@gmail.com**
+- 📫 You can reach me at **quertical5@gmail.com**
 
 - 📖 Languages: **I speak fluent English and Czech. And I am learning German.**
 
