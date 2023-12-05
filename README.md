@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android XML**
 
-- 👯 I’m looking to collaborate on **...**
+- 👯 I’m looking to collaborate on Open Source projects involving Kotlin
 
 - 📖 Languages: **I speak fluent English and Czech. And I am learning German.**
 
