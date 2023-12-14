@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on Open Source projects involving Kotlin
 
-- 📖 Languages: **I speak fluent English and Czech. And I am learning German.**
+- 📖 Languages: **I speak fluent English and Czech. I am also learning German.**
 
 - 📫 How to reach me: **quertical5@gmail.com**
 
