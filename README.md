@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Toiletman</h1>
+<h1 align="center">Hi 👋, I'm Karel</h1>
 - 🔭 I’m currently working on https://github.com/Kostahe/Clipie
 
 - 🌱 I’m currently learning **Jetpack Compose**
