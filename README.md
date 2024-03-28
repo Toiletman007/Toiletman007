@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toiletman</h1>
 - 🔭 I’m currently working on https://github.com/Kostahe/Clipie
 
-- 🌱 I’m currently learning **Android XML**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👯 I’m looking to collaborate on Open Source projects involving Kotlin and android xml!
 
